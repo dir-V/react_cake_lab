@@ -1,0 +1,9 @@
+.cake{
+    display: grid;
+   flex-direction: row;
+    
+}
+
+body{
+    background-color: pink;
+}
